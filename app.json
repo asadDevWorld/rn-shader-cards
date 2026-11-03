@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Shader Cards",
-    "slug": "shader-cards",
+    "slug": "rn-shader-cards",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
